@@ -5,6 +5,6 @@ setup(name='mgds',
       description='Modular Pytorch DataSet implementation',
       author='Nerogar',
       url='https://github.com/Nerogar/stable-diffusion-dataloader/',
-      package_data={'mgds': ['src/**/*']},
+      package_data={'': ['src/**/*']},
       packages=['mgds'],
       )
